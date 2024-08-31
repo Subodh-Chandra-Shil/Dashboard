@@ -1,6 +1,6 @@
 > # **`Simple dashboard project`**
 
-Hi there, Subodh this side once again. This repository keeps my 9th-semester mid-term web project.
+Hi, Subodh here again. This repository contains my 9th-semester mid-term web project.
 
 ### Technology used:
 
@@ -10,3 +10,7 @@ Hi there, Subodh this side once again. This repository keeps my 9th-semester mid
 ### Here is a glimpse of the project
 
 ![](20240831154545.png)
+
+### ⚠️ Caution: The News tab isn't functional because the API used is not on a paid plan, making it unavailable in production.
+
+![](20240831155219.png)
